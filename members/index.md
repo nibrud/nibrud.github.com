@@ -1,5 +1,5 @@
 ---
-title: Members
+title: members
 layout: default
 ---
-* [Philip Durbin](pdurbin)
+* [pdurbin](pdurbin)
